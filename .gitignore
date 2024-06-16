@@ -41,3 +41,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+*.dart linguist-language=Dart
+generated_folder/ linguist-vendored
+docs_folder/ linguist-documentation
+
