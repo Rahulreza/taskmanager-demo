@@ -1,0 +1,16 @@
+export 'package:flutter/material.dart';
+export 'package:baseproject/app/my_app.dart';
+export 'package:baseproject/features/dashboard/screens/dashboard_screen.dart';
+export 'package:baseproject/features/add/screen/add_screen.dart';
+export 'package:baseproject/features/home/screens/home_screen.dart';
+export 'package:baseproject/features/notifications/screens/notifications_screen.dart';
+export 'package:baseproject/features/profile/screens/profile_screen.dart';
+export 'package:baseproject/features/search/screens/search_screen.dart';
+export 'package:baseproject/globals/widgets/global_widgets/project_card.dart';
+export 'package:baseproject/globals/widgets/global_widgets/task_card.dart';
+export 'package:baseproject/globals/items/notifications_item.dart';
+export 'package:baseproject/globals/widgets/global_widgets/notification_card.dart';
+export 'package:baseproject/globals/items/list_of_task.dart';
+export 'package:baseproject/globals/widgets/global_widgets/build_color_picker.dart';
+export 'package:baseproject/globals/core/constants/image_constants.dart';
+export 'package:baseproject/globals/core/constants/color_constants.dart';
